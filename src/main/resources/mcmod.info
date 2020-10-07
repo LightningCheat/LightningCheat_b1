@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "lightningcheat",
+    "name": "LightningCheat",
+    "description": "A Minecraft utility mod for anarchy servers.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://lightningcheat.github.io/",
+    "updateUrl": "",
+    "authorList": [
+      "LightningCheat"
+    ],
+    "credits": "Code/Image:Chenjj100419",
+    "logoFile": "lightning.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
