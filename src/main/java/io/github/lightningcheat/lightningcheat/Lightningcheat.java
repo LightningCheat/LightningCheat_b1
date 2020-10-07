@@ -85,7 +85,7 @@ public class Lightningcheat {
         }
     }
 
-    /*
+    /*DEL
     @GameRegistry.ObjectHolder(MOD_ID)
     public static class Blocks {
     }
